@@ -1,0 +1,1 @@
+# SmartCare-GD32-K230
